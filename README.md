@@ -1,1 +1,1 @@
-# landing-page-for-educational-institutions
+Nitketh's Landing page
